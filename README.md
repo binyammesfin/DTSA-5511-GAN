@@ -1,1 +1,1 @@
-# DTSA-5511-GAN
+# Creating Monet Style Art Using GAN
